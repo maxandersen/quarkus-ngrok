@@ -1,0 +1,11 @@
+# quarkus-ngrok
+
+This project provides easy usage of https://ngrok.io[ngrok] together with Quarkus.
+
+To use it simply add the following dependency to your maven project and ngrok will be activated on startup.
+
+[source]
+----
+
+----
+
